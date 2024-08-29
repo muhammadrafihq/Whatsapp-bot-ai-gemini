@@ -8,10 +8,7 @@ This project is a WhatsApp bot that uses to interface with WhatsApp Web and Goog
 - [Installation](#installation)
 - [Configuration](#configuration)
 - [Usage](#usage)
-- [Deployment](#deployment)
-- [Troubleshooting](#troubleshooting)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Prerequisites
 
