@@ -1,6 +1,6 @@
 # WhatsApp Bot with Express and Google Generative AI
 
-This project is a WhatsApp bot that uses to interface with WhatsApp Web and Google Generative AI to generate responses to incoming messages.
+This project is a WhatsApp bot that interfaces with WhatsApp Web and Google Generative AI to generate responses to incoming messages. The bot can now detect whether a message contains only text or a combination of text and image, enabling it to generate appropriate responses based on the message content.
 
 ## Table of Contents
 
