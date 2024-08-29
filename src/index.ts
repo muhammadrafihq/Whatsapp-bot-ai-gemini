@@ -21,6 +21,9 @@ async function mediaToGenerativePart(media: MessageMedia) {
 
 const whatsappClient = new Client({
   authStrategy: new LocalAuth(),
+  puppeteer: {
+    args: ['--no-sandbox', '--disable-setuid-sandbox'], 
+  },
 });
 
 whatsappClient.on("qr", (qr: string) => {
